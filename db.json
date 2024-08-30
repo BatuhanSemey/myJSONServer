@@ -29,6 +29,6 @@
   { id: 27, title: "Post 27", body: "This is the body of post 27." },
   { id: 28, title: "Post 28", body: "This is the body of post 28." },
   { id: 29, title: "Post 29", body: "This is the body of post 29." },
-  { id: 30, title: "Post 30", body: "This is the body of post 30." },
-];
+  { id: 30, title: "Post 30", body: "This is the body of post 30." }
+]
 }
